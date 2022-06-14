@@ -41,8 +41,8 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 
 ### step 6: setting db in app.py
-
-
+![heidimananger](img/heidimanager.png)
+![heididb](img/heididb.png)
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
@@ -61,15 +61,19 @@ delete .git and git remote add origin master github.com/xxxxx
 
 
 ### step 9: Heroku deploy from github
+![connectgithub](img/connectgithub.png)
+![deploy](img/deploy.png)
 
 ### step 10: Complete
 
 Sample link 1:
 https://awinlab-aiot.herokuapp.com/
+![setrandom](img/setrandom.png)
+
 
 Sample link 2: 
 https://aiot0529.herokuapp.com/
-
+![callAI](img/callAI.png)
 
 
 
