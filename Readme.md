@@ -2,7 +2,7 @@
 
 ##### Author : Minlan    
 ## Lecture 15: IoT Flask Web (deploy to heroku)  
-### step0: SEtup Environment    
+### step0: Setup Environment    
 *github, heroku account setup    
 *download HeidiSQL, VS code   
 
