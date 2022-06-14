@@ -29,12 +29,12 @@ psycopg2 sklearn pandas  numpy
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
-####HeidiSQL setup  
+#### HeidiSQL setup  
 
 ![heidimananger](img/heidimanager.png)  
 ![heididb](img/heididb.png)  
 
-####Postgredb in Heroku  
+#### Postgredb in Heroku  
 
 ![heroku](img/heroku.png)  
 
