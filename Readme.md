@@ -29,6 +29,15 @@ psycopg2 sklearn pandas  numpy
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
+####HeidiSQL setup
+
+![heidimananger](img/heidimanager.png)
+![heididb](img/heididb.png)
+
+####Postgredb in Heroku
+
+![heroku](img/heroku.png)
+
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
@@ -41,8 +50,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 
 ### step 6: setting db in app.py
-![heidimananger](img/heidimanager.png)
-![heididb](img/heididb.png)
+
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
