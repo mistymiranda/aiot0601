@@ -1,15 +1,15 @@
 # AIoT Github
-<br>
-##### Author : Minlan  
-## Lecture 15: IoT Flask Web (deploy to heroku)  
-### step0: SEtup Environment  
-*github, heroku account setup  
-*download HeidiSQL, VS code  
 
-### step 1 : Clone this github
-*clone https://github.com/huanchen1107/aiot0530-start-no-token.git (complete)
-*delete .git管理者, folder ./aiot0529下面的資料都搬上一層
-*git remote to new repository aiot0601
+##### Author : Minlan    
+## Lecture 15: IoT Flask Web (deploy to heroku)  
+### step0: Setup Environment    
+*github, heroku account setup    
+*download HeidiSQL, VS code   
+
+### step 1 : Clone this github  
+*clone https://github.com/huanchen1107/aiot0530-start-no-token.git (complete)  
+*delete .git管理者, folder ./aiot0529下面的資料都搬上一層  
+*git remote to new repository aiot0601  
 
 ### step 2 : install some package
 
