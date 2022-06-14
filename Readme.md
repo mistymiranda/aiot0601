@@ -68,11 +68,18 @@ delete .git and git remote add origin master github.com/xxxxx
 
 Sample link 1:
 https://awinlab-aiot.herokuapp.com/
-![setrandom](img/setrandom.png)
+
 
 
 Sample link 2: 
-https://aiot0529.herokuapp.com/
+https://aiot0601miranda.herokuapp.com/
+
+### Result: (remote random sensor points)
+
+![setrandom](img/setrandom.png)
+
+### Result: (remote after AI prediction)
+
 ![callAI](img/callAI.png)
 
 
