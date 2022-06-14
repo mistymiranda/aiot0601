@@ -15,16 +15,12 @@
 
 
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install gunicorn   Flask==2.0.1 Jinja2==3.0.1 
+psycopg2 sklearn pandas  numpy 
 ```
 
 ### step 3: add an heroku postgredb
+* If you want to test locally, you need to install the following packages. (That is the same thing in the Requirements.txt)
 
 * register heroku account
 * go to dashboard
